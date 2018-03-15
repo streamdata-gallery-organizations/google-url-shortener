@@ -15,8 +15,8 @@ tags:
 - Links
 - Google APIs
 - DNS
-created: "2018-03-11"
-modified: "2018-03-11"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-url-shortener/master/_listings/google-url-shortener/apis.yaml
 specificationVersion: "0.14"
 apis:
