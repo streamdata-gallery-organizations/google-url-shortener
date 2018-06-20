@@ -9,10 +9,10 @@ description: The Google URL Shortener at goo.gl is a service that takes long URL
   to create, inspect, and manage goo.gl short links from desktop, mobile, or web.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-shortener.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google URL Shortener
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-url-shortener/master/_listings/google-url-shortener/apis.md
 specificationVersion: "0.14"
 apis:

@@ -4,7 +4,7 @@ x-collection-name: Google URL Shortener
 x-complete: 1
 info:
   title: URL Shortener
-  description: lets-you-create-inspect-and-manage-googl-short-urls
+  description: lets-you-create-inspect-and-manage-goo-gl-short-urls
   contact:
     name: Google
     url: https://google.com
