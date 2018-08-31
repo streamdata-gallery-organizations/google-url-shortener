@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google URL Shortener",
+	"description": "This is a repository of google url shortener APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-url-shortener.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-url-shortener.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google URL Shortener",
+			"x-api-slug": "google-url-shortener",
+			"description": "The Google URL Shortener at goo.gl is a service that takes long URLs and squeezes them into fewer characters to make a link that is easier to share, tweet, or email to friends. Users can create these short links through the web interface at goo.gl, or they can programatically create them through the URL Shortener API. With the URL Shortener API you can write applications that use simple HTTP methods to create, inspect, and manage goo.gl short links from desktop, mobile, or web.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-shortener.png",
+			"humanURL": "https://goo.gl/",
+			"baseURL": "://www.googleapis.com//urlshortener/v1",
+			"tags": "Google URL Shortener",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-url-shortener/master/_listings/google-url-shortener/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google URL Shortener",
+	"include": [
+		{
+			"name": "Google URL Shortener",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-url-shortener/master/_listings/google-url-shortener/apis.yaml"
+		}
+	]
+}
